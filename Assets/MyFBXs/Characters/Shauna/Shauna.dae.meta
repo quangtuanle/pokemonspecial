@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: f7c6b069364fdbb49a30e52e0366235f
+timeCreated: 1480733360
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BagA
+    100004: BagB
+    100006: Head
+    100008: Hips
+    100010: LArmA
+    100012: LFingerA1
+    100014: LFingerB1
+    100016: LFoot
+    100018: LForeArm
+    100020: LHair1
+    100022: LHair2
+    100024: LHand
+    100026: LHandEX
+    100028: LLeg
+    100030: loc_eye
+    100032: loc_head
+    100034: loc_mouth
+    100036: LShoulder
+    100038: LThigh
+    100040: LToe
+    100042: mesh_0_bag
+    100044: mesh_1_face
+    100046: mesh_2_face
+    100048: Neck
+    100050: Origin
+    100052: RArmA
+    100054: RFingerA1
+    100056: RFingerB1
+    100058: RFoot
+    100060: RForeArm
+    100062: RHair1
+    100064: RHair2
+    100066: RHand
+    100068: RHandEX
+    100070: RLeg
+    100072: RShoulder
+    100074: RThigh
+    100076: RToe
+    100078: //RootNode
+    100080: Spine1
+    100082: Spine2
+    100084: Waist
+    400000: Armature
+    400002: BagA
+    400004: BagB
+    400006: Head
+    400008: Hips
+    400010: LArmA
+    400012: LFingerA1
+    400014: LFingerB1
+    400016: LFoot
+    400018: LForeArm
+    400020: LHair1
+    400022: LHair2
+    400024: LHand
+    400026: LHandEX
+    400028: LLeg
+    400030: loc_eye
+    400032: loc_head
+    400034: loc_mouth
+    400036: LShoulder
+    400038: LThigh
+    400040: LToe
+    400042: mesh_0_bag
+    400044: mesh_1_face
+    400046: mesh_2_face
+    400048: Neck
+    400050: Origin
+    400052: RArmA
+    400054: RFingerA1
+    400056: RFingerB1
+    400058: RFoot
+    400060: RForeArm
+    400062: RHair1
+    400064: RHair2
+    400066: RHand
+    400068: RHandEX
+    400070: RLeg
+    400072: RShoulder
+    400074: RThigh
+    400076: RToe
+    400078: //RootNode
+    400080: Spine1
+    400082: Spine2
+    400084: Waist
+    4300000: mesh_0_bag
+    4300002: mesh_1_face
+    4300004: mesh_2_face
+    9500000: //RootNode
+    13700000: mesh_0_bag
+    13700002: mesh_1_face
+    13700004: mesh_2_face
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
